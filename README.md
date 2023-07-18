@@ -26,3 +26,14 @@ The GitHub repository has the following folder :
  library(plotly)
  library(stringr)
  library(rvest)
+
+
+Group members:
+
+Rohit Jangid
+
+Snigdha Taneja
+
+Kanchan Maan
+
+Anupam Anand
